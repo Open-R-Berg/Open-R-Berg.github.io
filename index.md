@@ -1,3 +1,7 @@
+# tl;dr
+Türöffnung: 16:00
+Ruftaxi: 071 841 55 55
+
 # Allgemeines
 Ab 16:00 kann man kommen. Die erste Band spielt nicht vor 19:00. 
 
