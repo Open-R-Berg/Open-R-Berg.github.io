@@ -4,7 +4,7 @@ Türöffnung: 16:00
 Ruftaxi: 071 841 55 55
 
 # Allgemeines
-Ab 16:00 kann man kommen. Die erste Band spielt nicht vor 19:00. 
+Ab 16:00 kann man kommen. Die erste Band spielt nicht vor 18:00. 
 
 Es gibt Bändel \o/. Sobald du angekommen bist, kannst du das OK- oder Vereinsmitglied suchen, das dich eingeladen hat. Das gibt dir dann deinen Bändel.
 
