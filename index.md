@@ -1,7 +1,7 @@
 # tl;dr
 Türöffnung: 16:00
 
-Ruftaxi: 071 841 55 55
+Ruftaxi: 071 841 55 55, kost 7CHF
 
 # Allgemeines
 Ab 16:00 kann man kommen. Die erste Band spielt nicht vor 17:00. 
@@ -25,7 +25,7 @@ Wenn du bis nach “Rorschach” fährst: Auf der Südseite des Bahnhofs hats ei
 Den Lift hoch nehmen und an der Strasse das Ruftaxi bestellen. Falls du nur bis “Rorschach Stadt” gefahren bist, einfach auf der Südseite warten und das Ruftaxi dorthin bestellen (Südseite = Da wo der See nicht ist).
 
 # Das Ruftaxi
-In Rorschacherberg gibts Ruftaxis, die von Haltestellen zu Haltestellen fahren. Eine Fahrt kostet 5CHF.
+In Rorschacherberg gibts Ruftaxis, die von Haltestellen zu Haltestellen fahren. Eine Fahrt kostet 7CHF.
 
 An welchem Bahnhof stehst du? “Rorschach Stadt” oder “Rorschach (Hauptbahnhof), oben beim Lift”? Das Ruftaxi bestellen: 071 841 55 55 anrufen und sagen man brauche ein Ruftaxi, man stehe zur Zeit am “Bahnhof Rorschach Stadt” oder eben “Rorschach Hauptbahnhof, oben beim Lift”, und möchte zur Haltestelle “Hasehuus” gefahren werden. Bilde doch Grüpplein mit den anderen ORB-Gästen, damit ihr die Autos optimal füllt.
 
