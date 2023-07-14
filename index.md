@@ -1,7 +1,9 @@
 # tl;dr
 Türöffnung: 16:00
 
-Ruftaxi: 071 841 55 55, kost 7CHF
+Ruftaxi: 071 841 55 55, kost 7CHF.
+
+Eintrittspreis: 40-60 CHF.
 
 # Allgemeines
 Ab 16:00 kann man kommen. Die erste Band spielt nicht vor 17:00. 
