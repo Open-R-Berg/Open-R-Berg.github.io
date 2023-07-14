@@ -7,7 +7,7 @@ Ruftaxi: 071 841 55 55, kost 7CHF
 Ab 16:00 kann man kommen. Die erste Band spielt nicht vor 17:00. 
 
 # Eintritt / Ticket
-Ein Ticket im klassisches Sinne gibt es nicht. Du wirst von einem ORB OK-/Vereinsmitglied eingeladen, dem du dann den Eintrittspreis twinten oder    passend in Bargeld geben kannst.
+Ein Ticket im klassisches Sinne gibt es nicht. Du wirst von einem ORB OK-/Vereinsmitglied eingeladen, dem du dann den Eintrittspreis twinten oder    passend in Bargeld geben kannst. 40 CHF ist der Eintrittspreis. Wenn du uns zusätzlich unterstützen möchtest, dann kannst! Z.b. mit 50 oder 60 CHF statt 40 :).
 
 
 Es gibt Bändel \o/. Sobald du angekommen bist, kannst du das OK- oder Vereinsmitglied suchen, das dich eingeladen hat. Das gibt dir dann deinen Bändel.
