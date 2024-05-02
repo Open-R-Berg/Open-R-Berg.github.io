@@ -5,6 +5,8 @@ Ruftaxi: 071 841 55 55, kost 7CHF.
 
 Eintrittspreis: 50 CHF.
 
+Kein Glas mitnehmen!
+
 # Allgemeines
 Ab 16:00 kann man kommen. Die erste Band spielt nicht vor 17:00. 
 
