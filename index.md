@@ -57,5 +57,8 @@ Du kannst mitnehmen und konsumieren, was du willst. Einfach kein Glas. Ist ein L
 # Konsumationswar vom ORB
 Fürs Bier hats Kühlschränke, einfach bedienen. Wir stellen einen Grill zur freien Verfügung. Essen kaufen kannst du auch (nur cash).
 
+# Video zum gucken
+[Guck mich an](https://vimeo.com/openrberg/orbteaser)
+
 # Und sonst?
 Nüt, schö bisch debie :)
