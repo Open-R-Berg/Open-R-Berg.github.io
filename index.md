@@ -1,3 +1,5 @@
+
+
 # tl;dr
 Türöffnung: 16:00
 
@@ -10,8 +12,21 @@ Kein Glas mitnehmen!
 # Allgemeines
 Ab 16:00 kann man kommen. Die erste Band spielt nicht vor 17:00. 
 
+# Bands
+<img src="https://github.com/Open-R-Berg/open-r-berg.github.io/assets/76770290/1697525f-60a8-4e07-a59b-f7e24c8de9ae" alt="Flyer" width="400"/>
+
+[Phantom Heart (Heavy Metal)](https://phantomheart.bandcamp.com/album/phantom-heart)
+
+[Bikini Beach (Garage Punk)](https://bikinibeach.bandcamp.com/album/appetizer)
+
+[Angry Strings (Bluegrass Country)](https://www.youtube.com/watch?v=ODId3AXbFuc)
+
+Gor Layer (Xylophon)
+
+DJs: Do It Again + LSDJ
+
 # Eintritt / Ticket
-Du kaufst dein Ticket auf eventfrog.ch und zeigst es an der Eingangskontrolle.
+Du kaufst dein Ticket auf [eventfrog](https://eventfrog.ch/de/p/festivals/weitere-festivals/open-r-berg-2024-7187030246402553487.html) und zeigst es an der Eingangskontrolle.
 
 # Lageplan Rorschach/erberg
 ![lageplan](https://user-images.githubusercontent.com/28339986/236682525-44f1da2b-4734-41bf-b05d-744ab9652e2b.png)
@@ -58,7 +73,7 @@ Du kannst mitnehmen und konsumieren, was du willst. Einfach kein Glas. Ist ein L
 Fürs Bier hats Kühlschränke, einfach bedienen. Wir stellen einen Grill zur freien Verfügung. Essen kaufen kannst du auch (nur cash).
 
 # Video zum gucken
-[Guck mich an](https://vimeo.com/openrberg/orbteaser)
+[Guck mich](https://vimeo.com/openrberg/orbteaser)
 
 # Und sonst?
 Nüt, schö bisch debie :)
