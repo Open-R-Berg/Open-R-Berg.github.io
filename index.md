@@ -13,7 +13,7 @@ Kein Glas mitnehmen!
 
 # Timetable
 
-18.00 - 18.30 Gor Layer
+18.00 - 18.30 Gor Layer (Marimbaphone)
 
 19.00 - 19.30 [Angry Strings (Bluegrass Country)](https://www.youtube.com/watch?v=ODId3AXbFuc)
 
