@@ -1,5 +1,7 @@
 
 
+<img src="https://github.com/Open-R-Berg/open-r-berg.github.io/assets/76770290/1697525f-60a8-4e07-a59b-f7e24c8de9ae" alt="Flyer" width="400"/>
+
 # tl;dr
 Türöffnung: 16:00
 
@@ -9,21 +11,20 @@ Eintrittspreis: 50 CHF.
 
 Kein Glas mitnehmen!
 
-# Allgemeines
-Ab 16:00 kann man kommen. Die erste Band spielt nicht vor 17:00. 
+# Timetable
+Doors: 16:00
 
-# Bands
-<img src="https://github.com/Open-R-Berg/open-r-berg.github.io/assets/76770290/1697525f-60a8-4e07-a59b-f7e24c8de9ae" alt="Flyer" width="400"/>
+18.00 - 18.30 Gor Layer
 
-[Phantom Heart (Heavy Metal)](https://phantomheart.bandcamp.com/album/phantom-heart)
+19.00 - 19.30 [Angry Strings (Bluegrass Country)](https://www.youtube.com/watch?v=ODId3AXbFuc)
 
-[Bikini Beach (Garage Punk)](https://bikinibeach.bandcamp.com/album/appetizer)
+19.45 - 20.15 Schäre Stai Papier EM
 
-[Angry Strings (Bluegrass Country)](https://www.youtube.com/watch?v=ODId3AXbFuc)
+20.30 - 21.30 [Bikini Beach (Garage Punk)](https://bikinibeach.bandcamp.com/album/appetizer)
 
-Gor Layer (Xylophon)
+22.30 - 23.30 [Phantom Heart (Heavy Metal)](https://phantomheart.bandcamp.com/album/phantom-heart)
 
-DJs: Do It Again + LSDJ
+00.30 - 03.00 [DJ Do It Again + LSDJ (wechseln alle 30‘ ab)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 # Eintritt / Ticket
 Du kaufst dein Ticket auf [eventfrog](https://eventfrog.ch/de/p/festivals/weitere-festivals/open-r-berg-2024-7187030246402553487.html) und zeigst es an der Eingangskontrolle.
