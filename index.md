@@ -12,7 +12,6 @@ Eintrittspreis: 50 CHF.
 Kein Glas mitnehmen!
 
 # Timetable
-Doors: 16:00
 
 18.00 - 18.30 Gor Layer
 
