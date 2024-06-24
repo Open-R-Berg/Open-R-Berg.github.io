@@ -26,7 +26,7 @@ Kein Glas mitnehmen!
 00.30 - 03.00 [DJ Do It Again + LSDJ (wechseln alle 30‘ ab)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 # Eintritt / Ticket
-Du kaufst dein Ticket auf [eventfrog](https://eventfrog.ch/de/p/festivals/weitere-festivals/open-r-berg-2024-7187030246402553487.html) und zeigst es an der Eingangskontrolle.
+Du kaufst dein Ticket auf [eventfrog](https://eventfrog.ch/de/p/festivals/weitere-festivals/open-r-berg-2024-7187030246402553487.html) und zeigst es an der Eingangskontrolle. Achtung: Es gibt NUR 220 Tickets! De Schneller isch also de Gschwinder hoi!
 
 # Lageplan Rorschach/erberg
 ![lageplan](https://user-images.githubusercontent.com/28339986/236682525-44f1da2b-4734-41bf-b05d-744ab9652e2b.png)
@@ -72,7 +72,7 @@ Du kannst mitnehmen und konsumieren, was du willst. Einfach kein Glas. Ist ein L
 # Konsumationswar vom ORB
 Fürs Bier hats Kühlschränke, einfach bedienen. Wir stellen einen Grill zur freien Verfügung. Essen kaufen kannst du auch (nur cash).
 
-# Video zum gucken
+# Video zum Gucken
 [Guck mich](https://vimeo.com/openrberg/orbteaser)
 
 # Und sonst?
